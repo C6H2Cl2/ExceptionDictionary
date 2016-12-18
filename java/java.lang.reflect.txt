@@ -1,0 +1,2 @@
+れいがい	InvocationTargetException	 独立語	InvocationTargetException は、呼び出されるメソッドまたはコンストラクタがスローする例外をラップする、チェック済み例外です。
+れいがい		UndeclaredThrowableException	独立語	呼び出しハンドラのinvokeメソッドが、プロキシインスタンスで呼び出されディスパッチされたメソッドのthrows節で宣言された例外タイプに割り当てできない確認済み例外をスローした場合、スローされます

@@ -1,0 +1,8 @@
+れいがい	BindException	独立語	ローカルのアドレスおよびポートに対してソケットのバインドを試行中にエラーが発生したことを通知します。
+れいがい	MalformedURLException	独立語	不正な形式の URL が見つかったことを示すためにスローされます。
+れいがい	PortUnreachableException	独立語	ICMP ポート到達不可能メッセージが接続されたデータグラムに受信されたことを示すシグナルです。
+れいがい	ProtocolException	独立語	使用しているプロトコルでエラー (TCP エラーなど) が発生したことを表すためにスローされます。
+れいがい	SocketException	独立語	使用しているプロトコルでエラー (TCP エラーなど) が発生したことを表すためにスローされます。
+れいがい	SocketTimeoutException	独立語	ソケットの読み込みまたは受け入れでタイムアウトが発生したことを示すシグナルです。
+れいがい	UnknownHostException	独立語	ホストの IP アドレスが判定できなかった場合にスローされます。
+れいがい	UnknownServiceException	独立語	未知のサービス例外が発生したことを示すためにスローされます。
