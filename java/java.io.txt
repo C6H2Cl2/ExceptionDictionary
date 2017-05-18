@@ -1,0 +1,16 @@
+れいがい	CharConversionException	独立語	文字変換で発生する例外の基底クラスです。
+れいがい	EOFException	独立語	入力の途中で、予想外のファイルの終了、または予想外のストリームの終了があったことを表すシグナルです。
+れいがい	FileNotFoundException	独立語	指定されたパス名で示されるファイルが開けなかったことを通知します。
+れいがい	InterruptedIOException	独立語	入出力処理で割り込みが発生したことを通知するシグナルを発生させます。
+れいがい	InvalidClassException	独立語	直列化ランタイムが、クラスについて次の問題のどれかを検出したときにスローされます。
+れいがい	InvalidObjectException	独立語	1 つ以上の直列化復元オブジェクトが検証をパスしなかったことを示します。
+れいがい	IOException	独立語	なんらかの入出力例外の発生を通知するシグナルを発生させます。
+れいがい	NotActiveException	独立語	直列化または直列化復元がアクティブではない場合にスローされます。
+れいがい	NotSerializableException	独立語	インスタンスが直列化可能インタフェースを持つ必要がある場合にスローされます。
+れいがい	ObjectStreamException	独立語	オブジェクトストリームクラスに固有の例外すべてのスーパークラスです。
+れいがい	OptionalDataException	独立語	プリミティブデータが読み込まれていないか、またはデータの終わりがストリーム内の直列化オブジェクトにあるため、オブジェクトの読み込み操作が失敗したことを示す例外です。
+れいがい	StreamCorruptedException	独立語	オブジェクトストリームから読み込まれた制御情報が、内部整合性検査に違反していた場合にスローされます。
+れいがい	SyncFailedException	独立語	同期 (sync) オペレーションが失敗したことを通知します。
+れいがい	UnsupportedEncodingException	独立語	文字のエンコーディングがサポートされていません。
+れいがい	UTFDataFormatException	独立語	不正な構造を持つ UTF-8 文字列が、データ入力ストリーム内に読み込まれたか、またはデータ入力インタフェースを実装するクラスによって読み込まれたことを示します。
+れいがい	WriteAbortedException	独立語	書き込み時に ObjectStreamExceptions の 1 つがスローされたことを通知します。
